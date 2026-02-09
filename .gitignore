@@ -1,0 +1,21 @@
+# Ignore common system files
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# Env files
+.env
+
+# VSCode
+.vscode/
+
+# Build output
+dist/
+
+# OneDrive temp
+~$*
